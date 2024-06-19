@@ -1,0 +1,15 @@
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\bin\Debug\net8.0\ListOfStudents.exe
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\bin\Debug\net8.0\ListOfStudents.deps.json
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\bin\Debug\net8.0\ListOfStudents.runtimeconfig.json
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\bin\Debug\net8.0\ListOfStudents.dll
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\bin\Debug\net8.0\ListOfStudents.pdb
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.AssemblyInfoInputs.cache
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.AssemblyInfo.cs
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.csproj.CoreCompileInputs.cache
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.sourcelink.json
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.dll
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\refint\ListOfStudents.dll
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.pdb
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ListOfStudents.genruntimeconfig.cache
+C:\Development\BootCamp\ListOfStudentsCSharp\ListOfStudents\ListOfStudents\obj\Debug\net8.0\ref\ListOfStudents.dll
